@@ -1,0 +1,1 @@
+- project can be made simple without using useCallback but thats what it makes it more worthy of the time spent on it. useCallback is used for performance reasons where it stores what stays the same in the memory and changes only whats messed with
